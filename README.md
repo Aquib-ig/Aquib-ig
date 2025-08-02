@@ -9,6 +9,7 @@
 - 👯 **I’m looking to collaborate on:** Flutter-based apps and open-source projects  
 - 🤔 **I’m looking for help with:** Flutter Web optimization and performance tuning  
 - 💬 **Ask me about:** Flutter, Dart, UI/UX in mobile apps  
+- 📂 **Projects:** Browse my repositories to see what I’ve been building!
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I see `Widgets` in my dreams and debug faster than my coffee brews ☕📱
 
